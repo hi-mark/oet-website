@@ -1247,6 +1247,12 @@ canvas {
     min-height: 600px;
 }
 
+#particles-wrapper {
+    position: relative;
+    height: 400px;
+    min-height: 400px;
+}
+
 #max {
     min-height: 600px;
 }
